@@ -1,5 +1,5 @@
 //bitwise op - for all the bits logic is applied
-//logical - tests vector as boolean - true or false
+//logical - tests vector as boolean (true = non-zero, false = zero) and produces a 1-bit output.
 
 module top_module( 
     input [2:0] a,
