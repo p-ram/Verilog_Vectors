@@ -1,3 +1,6 @@
+//bitwise op - for all the bits logic is applied
+//logical - tests vector as boolean - true or false
+
 module top_module( 
     input [2:0] a,
     input [2:0] b,
